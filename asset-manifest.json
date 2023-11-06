@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-counter-app-tutorial/static/css/main.68b4f976.css",
+    "main.js": "/redux-counter-app-tutorial/static/js/main.df0f4c78.js",
+    "static/js/787.f08cba13.chunk.js": "/redux-counter-app-tutorial/static/js/787.f08cba13.chunk.js",
+    "index.html": "/redux-counter-app-tutorial/index.html",
+    "main.68b4f976.css.map": "/redux-counter-app-tutorial/static/css/main.68b4f976.css.map",
+    "main.df0f4c78.js.map": "/redux-counter-app-tutorial/static/js/main.df0f4c78.js.map",
+    "787.f08cba13.chunk.js.map": "/redux-counter-app-tutorial/static/js/787.f08cba13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b4f976.css",
+    "static/js/main.df0f4c78.js"
+  ]
+}
