@@ -24,4 +24,5 @@ input {
   height: 80px;
   width: 150px;
   font-size: 30px;
+  vertical-align: bottom;
 }
